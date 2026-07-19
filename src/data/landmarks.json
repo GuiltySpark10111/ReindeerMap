@@ -1,0 +1,13 @@
+[
+  { "name": "Southend SK", "lat": 56.335, "lng": -103.246, "type": "camp", "notes": "Community, Hwy 102 terminus" },
+  { "name": "Kinoosao SK", "lat": 57.08, "lng": -102.02, "type": "camp", "notes": "Community, Hwy 994" },
+  { "name": "Brochet MB", "lat": 57.89, "lng": -101.68, "type": "camp", "notes": "Community, north end of lake, Manitoba" },
+  { "name": "Tate Island Lodge", "lat": 57.40, "lng": -102.40, "type": "camp", "notes": "Fishing lodge, mid-lake" },
+  { "name": "Lawrence Bay Lodge", "lat": 56.70, "lng": -102.60, "type": "camp", "notes": "Fishing lodge, NE of Southend" },
+  { "name": "Nordic Lodge", "lat": 56.38, "lng": -103.22, "type": "camp", "notes": "Fishing lodge, west of Southend" },
+  { "name": "Deep Bay", "lat": 56.50, "lng": -103.17, "type": "depth", "notes": "Meteorite impact crater, 219m deep — deepest point in lake" },
+  { "name": "Cochrane River Mouth", "lat": 57.30, "lng": -103.30, "type": "creek_mouth", "notes": "Primary named inflow, west shore" },
+  { "name": "Reindeer River Outflow", "lat": 56.34, "lng": -103.24, "type": "creek_mouth", "notes": "Outflow south to Churchill River via Whitesand Dam" },
+  { "name": "Bedford House (Historic)", "lat": 57.50, "lng": -103.30, "type": "general", "notes": "Historic Hudson Bay Company trading post, est. 1796" },
+  { "name": "SK / MB Provincial Border", "lat": 57.50, "lng": -102.00, "type": "general", "notes": "Saskatchewan / Manitoba border crosses lake approx here" }
+]
