@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import { REINDEER_LAKE_CENTER, DEFAULT_ZOOM, MARKER_TYPES } from '../lib/geoUtils'
-import { TILE_LAYERS } from '../hooks/useMapLayers'
+import { TILE_LAYERS, OVERLAY_TILE_LAYERS } from '../hooks/useMapLayers'
 
 const LONG_PRESS_MS = 500
 const LONG_PRESS_MOVE_TOLERANCE_PX = 12
@@ -138,6 +138,13 @@ export default function MapView({
         }}
       >
         <TileLayer url={tile.url} attribution={tile.attribution} />
+        {overlays.openSeaMap && (
+          <TileLayer
+            url={OVERLAY_TILE_LAYERS.openSeaMap.url}
+            attribution={OVERLAY_TILE_LAYERS.openSeaMap.attribution}
+            opacity={OVERLAY_TILE_LAYERS.openSeaMap.opacity}
+          />
+        )}
         <LongPressHandler onLongPress={onLongPress} />
         <GpsButton />
 
