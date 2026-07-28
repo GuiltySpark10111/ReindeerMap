@@ -1,0 +1,3953 @@
+[
+  {
+    "id": "HABJG",
+    "name": "Abbott Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.782356,
+    "lng": -102.432609,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HABJA",
+    "name": "Adams Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.3334551,
+    "lng": -102.550381,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HABLZ",
+    "name": "Allen Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.0667821,
+    "lng": -102.51704,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HABMR",
+    "name": "Amiskit Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.8667805,
+    "lng": -102.450368,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HABNX",
+    "name": "Angus Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.4334386,
+    "lng": -102.3836962,
+    "decision_date": "1932-06-06"
+  },
+  {
+    "id": "HAMJT",
+    "name": "Armstrong Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.7001338,
+    "lng": -102.1837069,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAMKW",
+    "name": "Asimwok Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.7001118,
+    "lng": -102.4336988,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HACOU",
+    "name": "Ballentin Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.5667952,
+    "lng": -102.4503833,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HACPO",
+    "name": "Baptiste Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.966774,
+    "lng": -103.0337321,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAKGS",
+    "name": "Beatty Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.4167935,
+    "lng": -102.2503641,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAKHI",
+    "name": "Beaver Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.4334618,
+    "lng": -102.1670259,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAKIA",
+    "name": "Bedard Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.9501148,
+    "lng": -102.4503688,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAQMZ",
+    "name": "Bedford Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.4667902,
+    "lng": -102.7337281,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAJZX",
+    "name": "Bell Peninsula",
+    "generic": "Peninsula",
+    "category": "Terrain Feature",
+    "lat": 56.7001117,
+    "lng": -102.4670337,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAKAS",
+    "name": "Bennett Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.3001037,
+    "lng": -102.2836942,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HAKBL",
+    "name": "Bernard Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.356795,
+    "lng": -102.331888,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HAKBP",
+    "name": "Bernhardt Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.8334501,
+    "lng": -102.1336817,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAKBS",
+    "name": "Berston Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.850138,
+    "lng": -102.0837043,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HADXZ",
+    "name": "Big Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.3000878,
+    "lng": -103.217062,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HADZM",
+    "name": "Birch Point",
+    "generic": "Point",
+    "category": "Terrain Feature",
+    "lat": 56.5000915,
+    "lng": -103.0837267,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAEAW",
+    "name": "Bjornson Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.8667817,
+    "lng": -102.2336887,
+    "decision_date": "1960-06-09"
+  },
+  {
+    "id": "HAEBY",
+    "name": "Bladon Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.3167871,
+    "lng": -102.6503851,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAECN",
+    "name": "Bleasdell Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.583443,
+    "lng": -102.3336931,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAECX",
+    "name": "Blondeau River",
+    "generic": "River",
+    "category": "Water Feature",
+    "lat": 57.749541,
+    "lng": -103.079867,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAKDR",
+    "name": "Boucher Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.9167812,
+    "lng": -102.2836916,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAKDW",
+    "name": "Boundary Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.6668009,
+    "lng": -102.0003632,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HASAD",
+    "name": "Bowman Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.9334677,
+    "lng": -103.0170866,
+    "decision_date": "1958-07-03"
+  },
+  {
+    "id": "HAKJA",
+    "name": "Bradley Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.400127,
+    "lng": -102.2170282,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAKJJ",
+    "name": "Braithwaite Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.9001059,
+    "lng": -103.1837384,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAKJQ",
+    "name": "Bray Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.1834523,
+    "lng": -102.5170432,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HARAY",
+    "name": "Brenton Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.5334327,
+    "lng": -102.7837141,
+    "decision_date": "1967-03-31"
+  },
+  {
+    "id": "HAKKZ",
+    "name": "Brink Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.616798,
+    "lng": -102.250374,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAKLD",
+    "name": "Bristow Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.8001173,
+    "lng": -102.0836783,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAKLP",
+    "name": "Brockbank Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.9668071,
+    "lng": -102.2003776,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAKMQ",
+    "name": "Brown Channel",
+    "generic": "Channel",
+    "category": "Water Feature",
+    "lat": 57.6834636,
+    "lng": -102.6170614,
+    "decision_date": "1960-08-04"
+  },
+  {
+    "id": "HAKMS",
+    "name": "Brown Creek",
+    "generic": "Creek",
+    "category": "Water Feature",
+    "lat": 56.7834418,
+    "lng": -102.8503868,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HAKMX",
+    "name": "Brown Islands",
+    "generic": "Islands",
+    "category": "Terrain Feature",
+    "lat": 57.366787,
+    "lng": -102.8503954,
+    "decision_date": "1960-12-01"
+  },
+  {
+    "id": "HAKNA",
+    "name": "Brown Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.8167768,
+    "lng": -102.8503866,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HAKNG",
+    "name": "Brown Point",
+    "generic": "Point",
+    "category": "Terrain Feature",
+    "lat": 57.4834583,
+    "lng": -102.6170563,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAKOB",
+    "name": "Bryant Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.5001107,
+    "lng": -102.0336768,
+    "decision_date": "1966-06-15"
+  },
+  {
+    "id": "HAOYU",
+    "name": "Budd Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.429506,
+    "lng": -102.63436,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HAKQY",
+    "name": "Burntwood Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 57.317386,
+    "lng": -102.075429,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAKRE",
+    "name": "Burton Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.266787,
+    "lng": -102.5337123,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAKRS",
+    "name": "Butler Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.831776,
+    "lng": -102.317481,
+    "decision_date": "1967-05-31"
+  },
+  {
+    "id": "HAKRU",
+    "name": "Butler Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.650106,
+    "lng": -102.7170451,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAUIC",
+    "name": "Cairns Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.656957,
+    "lng": -103.325631,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAUIE",
+    "name": "Calder Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.975441,
+    "lng": -102.132393,
+    "decision_date": "1967-05-31"
+  },
+  {
+    "id": "HAASB",
+    "name": "Cameron Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.8334468,
+    "lng": -102.4337002,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAASD",
+    "name": "Cameron Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.953792,
+    "lng": -102.609819,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAASY",
+    "name": "Campbell River",
+    "generic": "River",
+    "category": "Water Feature",
+    "lat": 57.27123,
+    "lng": -103.294389,
+    "decision_date": "1957-07-04"
+  },
+  {
+    "id": "HABRD",
+    "name": "Carleton Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 58.043126,
+    "lng": -102.02475,
+    "decision_date": "1962-11-13"
+  },
+  {
+    "id": "HABWW",
+    "name": "Carriere Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.800946,
+    "lng": -102.890719,
+    "decision_date": "1967-05-08"
+  },
+  {
+    "id": "HACGY",
+    "name": "Chancellor Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.671884,
+    "lng": -102.053003,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HACIM",
+    "name": "Cheadle Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.765626,
+    "lng": -102.898366,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HACIQ",
+    "name": "Cheesman Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.066786,
+    "lng": -102.117016,
+    "decision_date": "1975-05-12"
+  },
+  {
+    "id": "HADAQ",
+    "name": "Clarke Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.384498,
+    "lng": -102.60757,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HADBP",
+    "name": "Clements Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.1167856,
+    "lng": -102.3336989,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HADCI",
+    "name": "Coates Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.29139,
+    "lng": -102.227845,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HADRA",
+    "name": "Collins Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.7667651,
+    "lng": -103.2504068,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HADRM",
+    "name": "Compulsion Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 57.7501294,
+    "lng": -103.2670941,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HADRO",
+    "name": "Conacher Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.3334507,
+    "lng": -103.0170697,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HADSS",
+    "name": "Cooke Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.9834474,
+    "lng": -102.3003597,
+    "decision_date": "1967-05-31"
+  },
+  {
+    "id": "HADVD",
+    "name": "Cowie Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 57.1667825,
+    "lng": -102.7170512,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HADVE",
+    "name": "Cowie Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.6667678,
+    "lng": -102.9503911,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HASFX",
+    "name": "Craig Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.2834476,
+    "lng": -103.0337365,
+    "decision_date": "1967-06-22"
+  },
+  {
+    "id": "HADVY",
+    "name": "Crane Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.8334684,
+    "lng": -102.3837191,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HARAP",
+    "name": "Creswell Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.5667592,
+    "lng": -103.2003996,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HARAO",
+    "name": "Creswell Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.5500923,
+    "lng": -103.2003993,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HAENJ",
+    "name": "Crimes Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.972411,
+    "lng": -102.274525,
+    "decision_date": "1958-07-03"
+  },
+  {
+    "id": "HAEOH",
+    "name": "Cross Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.766769,
+    "lng": -103.0670644,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HAEOI",
+    "name": "Cross Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.8668007,
+    "lng": -102.6837353,
+    "decision_date": "1958-07-03"
+  },
+  {
+    "id": "HAEOK",
+    "name": "Cross Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.7834372,
+    "lng": -103.0337295,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HAEOP",
+    "name": "Crow River",
+    "generic": "River",
+    "category": "Water Feature",
+    "lat": 56.466762,
+    "lng": -102.8670499,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAEOQ",
+    "name": "Crowe Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.7501121,
+    "lng": -102.5837069,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAEOV",
+    "name": "Crozier Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.933443,
+    "lng": -102.9170574,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAFCQ",
+    "name": "Cumines Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.783469,
+    "lng": -102.1503735,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAFFB",
+    "name": "Danielson Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.894367,
+    "lng": -103.134208,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HAFWU",
+    "name": "Deep Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.4167577,
+    "lng": -103.0003885,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAFXK",
+    "name": "Deitsch Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.854154,
+    "lng": -103.156109,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAFYT",
+    "name": "Devil Rapids",
+    "generic": "Rapids",
+    "category": "Water Feature",
+    "lat": 56.193301,
+    "lng": -103.160251,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAFZE",
+    "name": "Dewdney Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.0001141,
+    "lng": -102.30036,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAGAS",
+    "name": "Dixon Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.2167849,
+    "lng": -102.6003805,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAGAY",
+    "name": "Dobson Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.7001296,
+    "lng": -102.8170718,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAGUJ",
+    "name": "Doucet Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.900114,
+    "lng": -102.4170329,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAGVL",
+    "name": "Drever Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.774313,
+    "lng": -102.458916,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAGXB",
+    "name": "Duffield Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.9001071,
+    "lng": -103.0337305,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAGXL",
+    "name": "Dumont Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.4667767,
+    "lng": -102.0670117,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAGXP",
+    "name": "Dunand Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 58.100145,
+    "lng": -102.000376,
+    "decision_date": "1962-11-13"
+  },
+  {
+    "id": "HAGXZ",
+    "name": "Duncan Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.340986,
+    "lng": -102.258687,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAGYL",
+    "name": "Dunlop Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.4501261,
+    "lng": -102.3837077,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAOZA",
+    "name": "Dunn Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.3834421,
+    "lng": -102.08368,
+    "decision_date": "1966-06-15"
+  },
+  {
+    "id": "HAHSW",
+    "name": "Edgar Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.0001151,
+    "lng": -102.3503634,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAHTX",
+    "name": "Eichler Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.956477,
+    "lng": -103.058029,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAHTY",
+    "name": "Eichler Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.531451,
+    "lng": -102.227681,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HASAO",
+    "name": "Elefson Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.39484,
+    "lng": -102.002666,
+    "decision_date": "1966-06-15"
+  },
+  {
+    "id": "HAHVE",
+    "name": "Ellefson Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.831665,
+    "lng": -103.029457,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAHVK",
+    "name": "Elliott Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.8501038,
+    "lng": -103.1004011,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HAOYV",
+    "name": "Elliott Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.450098,
+    "lng": -102.7170433,
+    "decision_date": "1967-07-05"
+  },
+  {
+    "id": "HAHVO",
+    "name": "Ellis Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.900102,
+    "lng": -103.3004122,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HAHWP",
+    "name": "Emperingham Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.583819,
+    "lng": -102.129928,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAIQE",
+    "name": "Ettle Creek",
+    "generic": "Creek",
+    "category": "Water Feature",
+    "lat": 57.5501251,
+    "lng": -103.117082,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAQEZ",
+    "name": "Evans Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.206069,
+    "lng": -102.008169,
+    "decision_date": "1966-06-15"
+  },
+  {
+    "id": "HAIQT",
+    "name": "Eyaapo Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.687426,
+    "lng": -102.265349,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HABFC",
+    "name": "Fafard Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.225759,
+    "lng": -103.112161,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HABFL",
+    "name": "Fairbairn Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.8667723,
+    "lng": -103.0503982,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HABGQ",
+    "name": "Fawley Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.8001133,
+    "lng": -102.4003648,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HABGU",
+    "name": "Feaviour Peninsula",
+    "generic": "Peninsula",
+    "category": "Terrain Feature",
+    "lat": 57.85413,
+    "lng": -102.192106,
+    "decision_date": "1955-11-03"
+  },
+  {
+    "id": "HABOW",
+    "name": "Fidler Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 58.1668056,
+    "lng": -102.9670902,
+    "decision_date": "1950-06-02"
+  },
+  {
+    "id": "HABPK",
+    "name": "Findlay Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.3834574,
+    "lng": -102.4170416,
+    "decision_date": "1958-07-03"
+  },
+  {
+    "id": "HARAS",
+    "name": "Fines Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.556965,
+    "lng": -102.012759,
+    "decision_date": "1966-06-15"
+  },
+  {
+    "id": "HABPS",
+    "name": "Finlayson Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.3000917,
+    "lng": -102.8170463,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HABUV",
+    "name": "Fisher Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.772405,
+    "lng": -102.810004,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HACAL",
+    "name": "Fleming Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.889259,
+    "lng": -103.322853,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HABWI",
+    "name": "Fleming Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.5000991,
+    "lng": -102.7503786,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HACBU",
+    "name": "Fontaine Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.7501327,
+    "lng": -102.4670549,
+    "decision_date": "1958-07-03"
+  },
+  {
+    "id": "HACCF",
+    "name": "Fordham Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.650127,
+    "lng": -103.21709,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HACCW",
+    "name": "Forsyth Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.4334582,
+    "lng": -102.4670454,
+    "decision_date": "1958-07-03"
+  },
+  {
+    "id": "HATGN",
+    "name": "Foster Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.213633,
+    "lng": -103.215273,
+    "decision_date": "1967-06-22"
+  },
+  {
+    "id": "HACEG",
+    "name": "Fox Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.9334479,
+    "lng": -102.4170336,
+    "decision_date": "1967-05-31"
+  },
+  {
+    "id": "HACRP",
+    "name": "Francis Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.796915,
+    "lng": -102.311089,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HACRX",
+    "name": "Fraser Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.7667777,
+    "lng": -102.6503767,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HACRY",
+    "name": "Fraser Creek",
+    "generic": "Creek",
+    "category": "Water Feature",
+    "lat": 56.8167797,
+    "lng": -102.6170425,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HACRZ",
+    "name": "Fraser Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.9334743,
+    "lng": -102.0837026,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAQFA",
+    "name": "Frost Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.2334369,
+    "lng": -102.033687,
+    "decision_date": "1966-06-15"
+  },
+  {
+    "id": "HACTY",
+    "name": "Furman Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.3334244,
+    "lng": -102.8837157,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HACUW",
+    "name": "Gallop Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.856,
+    "lng": -102.892234,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HACVS",
+    "name": "Garth Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.7501145,
+    "lng": -102.1503504,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HACWF",
+    "name": "Gawthrop Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.638744,
+    "lng": -102.647261,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HARRB",
+    "name": "Geese Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 58.177213,
+    "lng": -103.149019,
+    "decision_date": "1964-10-29"
+  },
+  {
+    "id": "HACXL",
+    "name": "Gibson Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.3334534,
+    "lng": -102.7503891,
+    "decision_date": "1960-12-01"
+  },
+  {
+    "id": "HACXR",
+    "name": "Gilbart Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.784445,
+    "lng": -102.752305,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HACXZ",
+    "name": "Gillespie Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.8834377,
+    "lng": -103.0837342,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HACXB",
+    "name": "Gislason Creek",
+    "generic": "Creek",
+    "category": "Water Feature",
+    "lat": 56.2167677,
+    "lng": -102.2670302,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HACXC",
+    "name": "Gladman Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.268654,
+    "lng": -102.982627,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HADLQ",
+    "name": "Gow Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 58.1001358,
+    "lng": -103.2671046,
+    "decision_date": "1964-10-29"
+  },
+  {
+    "id": "HADLY",
+    "name": "Graham Islands",
+    "generic": "Islands",
+    "category": "Terrain Feature",
+    "lat": 56.46096,
+    "lng": -103.001982,
+    "decision_date": "1972-03-13"
+  },
+  {
+    "id": "HADMC",
+    "name": "Gramiak Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.8834432,
+    "lng": -102.9170568,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HADOE",
+    "name": "Greenbush Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.201534,
+    "lng": -103.329341,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAEHP",
+    "name": "Gulak Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.322512,
+    "lng": -103.116838,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAEJE",
+    "name": "Haglund Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 58.1334755,
+    "lng": -102.4003952,
+    "decision_date": "1958-04-03"
+  },
+  {
+    "id": "HAEJR",
+    "name": "Halfway Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.1501192,
+    "lng": -102.2503606,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAEKC",
+    "name": "Halldorson Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.9334515,
+    "lng": -102.0503451,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAELM",
+    "name": "Hanley Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.2000933,
+    "lng": -102.5503701,
+    "decision_date": "1959-05-07"
+  },
+  {
+    "id": "HASAP",
+    "name": "Hansen Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.466684,
+    "lng": -102.005152,
+    "decision_date": "1966-06-15"
+  },
+  {
+    "id": "HAELU",
+    "name": "Hanson Creek",
+    "generic": "Creek",
+    "category": "Water Feature",
+    "lat": 56.922004,
+    "lng": -102.732822,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HAEVJ",
+    "name": "Harriott Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.2000904,
+    "lng": -102.7503773,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAEVK",
+    "name": "Harriott River",
+    "generic": "River",
+    "category": "Water Feature",
+    "lat": 56.2500877,
+    "lng": -103.0837229,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAEVR",
+    "name": "Harrison Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.934659,
+    "lng": -103.309288,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HARQZ",
+    "name": "Hartle Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 58.046682,
+    "lng": -102.890513,
+    "decision_date": "1960-01-21"
+  },
+  {
+    "id": "HBCEA",
+    "name": "Hatchet Lake",
+    "generic": "First Nation Administrative Location",
+    "category": "Administrative Area",
+    "lat": 58.1109638,
+    "lng": -103.1575644,
+    "decision_date": "2023-09-14"
+  },
+  {
+    "id": "HAEXI",
+    "name": "Hay Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.4167899,
+    "lng": -102.6503887,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAEXP",
+    "name": "Hayward Rapids",
+    "generic": "Rapids",
+    "category": "Water Feature",
+    "lat": 56.4334228,
+    "lng": -103.317068,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAEYW",
+    "name": "Hedman Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.15374,
+    "lng": -103.103034,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAEZG",
+    "name": "Helen Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 57.8501324,
+    "lng": -103.183758,
+    "decision_date": "1962-11-16"
+  },
+  {
+    "id": "HAFAN",
+    "name": "Hetherington Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.7667675,
+    "lng": -103.1337343,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAFME",
+    "name": "Hillier Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.6167791,
+    "lng": -102.1336819,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAFMQ",
+    "name": "Hills Point",
+    "generic": "Point",
+    "category": "Terrain Feature",
+    "lat": 57.8501385,
+    "lng": -102.0337016,
+    "decision_date": "1961-01-19"
+  },
+  {
+    "id": "HAFNB",
+    "name": "Hind Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.543825,
+    "lng": -102.154882,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAFNT",
+    "name": "Hodgson Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.50747,
+    "lng": -102.960406,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAFOV",
+    "name": "Holukoff Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.9667802,
+    "lng": -102.2503563,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAFPF",
+    "name": "Hooper Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.466771,
+    "lng": -102.4670332,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAFPL",
+    "name": "Hopkins Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.929742,
+    "lng": -103.279534,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HAFQP",
+    "name": "Horseshoe Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.239117,
+    "lng": -102.32217,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAFQY",
+    "name": "Horton Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.876697,
+    "lng": -102.723072,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HAFRC",
+    "name": "Hourd Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.596826,
+    "lng": -102.478374,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAFRE",
+    "name": "Hourston Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.3667887,
+    "lng": -102.6337193,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAFRO",
+    "name": "Howard Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.728457,
+    "lng": -102.030825,
+    "decision_date": "1961-01-19"
+  },
+  {
+    "id": "HAFSJ",
+    "name": "Hugh Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.9834469,
+    "lng": -102.2670242,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAFSK",
+    "name": "Hughes Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.9667718,
+    "lng": -103.133738,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HAFSQ",
+    "name": "Hull Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 58.146981,
+    "lng": -102.461758,
+    "decision_date": "1952-12-11"
+  },
+  {
+    "id": "HAFTN",
+    "name": "Hunter Point",
+    "generic": "Point",
+    "category": "Terrain Feature",
+    "lat": 57.6167945,
+    "lng": -102.6503946,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAFUD",
+    "name": "Hydichuk Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.9501144,
+    "lng": -102.2336886,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAFUE",
+    "name": "Hydichuk Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 58.0501377,
+    "lng": -102.767077,
+    "decision_date": "1952-12-11"
+  },
+  {
+    "id": "HAAUL",
+    "name": "Ireland Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.9334684,
+    "lng": -102.8004089,
+    "decision_date": "1958-07-03"
+  },
+  {
+    "id": "HAAUO",
+    "name": "Irvine Creek",
+    "generic": "Creek",
+    "category": "Water Feature",
+    "lat": 56.971196,
+    "lng": -102.766,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HAAUQ",
+    "name": "Irvine Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.9834455,
+    "lng": -102.6837137,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HABRR",
+    "name": "Isaac Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.8001147,
+    "lng": -102.2003534,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAOZB",
+    "name": "Isbister Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.439692,
+    "lng": -102.031707,
+    "decision_date": "1966-06-15"
+  },
+  {
+    "id": "HAOZC",
+    "name": "Isbister Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.4376095,
+    "lng": -102.0420101,
+    "decision_date": "1966-06-15"
+  },
+  {
+    "id": "HASPQ",
+    "name": "Jackpine Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 58.148234,
+    "lng": -103.108788,
+    "decision_date": "1964-10-29"
+  },
+  {
+    "id": "HABYX",
+    "name": "Jackpine Narrows",
+    "generic": "Narrows",
+    "category": "Water Feature",
+    "lat": 57.050081,
+    "lng": -102.088518,
+    "decision_date": "1975-05-12"
+  },
+  {
+    "id": "HATGR",
+    "name": "Jacobson Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.109237,
+    "lng": -103.16034,
+    "decision_date": "1967-06-22"
+  },
+  {
+    "id": "HACKI",
+    "name": "Jewison Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.8834669,
+    "lng": -103.0004178,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HACKW",
+    "name": "Johnson Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.9334409,
+    "lng": -103.0337313,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HACLA",
+    "name": "Johnson Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.796704,
+    "lng": -102.221222,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HACLF",
+    "name": "Johnson Peninsula",
+    "generic": "Peninsula",
+    "category": "Terrain Feature",
+    "lat": 56.94469,
+    "lng": -103.038147,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HASAK",
+    "name": "Jones Peninsula",
+    "generic": "Peninsula",
+    "category": "Terrain Feature",
+    "lat": 56.5167614,
+    "lng": -103.0003898,
+    "decision_date": "1966-07-28"
+  },
+  {
+    "id": "HADDJ",
+    "name": "Juntunen Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.383464,
+    "lng": -102.0336774,
+    "decision_date": "1961-01-19"
+  },
+  {
+    "id": "HADEA",
+    "name": "Kamuchawie Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.291773,
+    "lng": -102.0336829,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HADEK",
+    "name": "Karos Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.833449,
+    "lng": -102.1670179,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HADFP",
+    "name": "Keeping Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 58.0668069,
+    "lng": -102.4503958,
+    "decision_date": "1954-03-04"
+  },
+  {
+    "id": "HADGC",
+    "name": "Kellough Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.2501207,
+    "lng": -102.4837098,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HADHC",
+    "name": "Kennedy Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.2501007,
+    "lng": -102.350364,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAERC",
+    "name": "King Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.843653,
+    "lng": -102.203052,
+    "decision_date": "1967-05-31"
+  },
+  {
+    "id": "HARAU",
+    "name": "King Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.521393,
+    "lng": -102.018456,
+    "decision_date": "1966-06-15"
+  },
+  {
+    "id": "HAERV",
+    "name": "Kinoosao",
+    "generic": "Hamlet",
+    "category": "Populated Place",
+    "lat": 57.0834553,
+    "lng": -102.0170078,
+    "decision_date": "1985-05-29"
+  },
+  {
+    "id": "HATGS",
+    "name": "Kinoosao Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 57.0667881,
+    "lng": -102.0170084,
+    "decision_date": "1966-05-16"
+  },
+  {
+    "id": "HZABY",
+    "name": "Kinoosao-Thomas Clark 204",
+    "generic": "Indian Reserve",
+    "category": "Administrative Area",
+    "lat": 57.089515,
+    "lng": -102.027787,
+    "decision_date": "2010-05-02"
+  },
+  {
+    "id": "HAETC",
+    "name": "Klassen Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.9001184,
+    "lng": -102.0336771,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAETD",
+    "name": "Klein Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.838832,
+    "lng": -102.472333,
+    "decision_date": "1967-05-31"
+  },
+  {
+    "id": "HAETF",
+    "name": "Klein Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 58.0168019,
+    "lng": -103.1337606,
+    "decision_date": "1954-03-04"
+  },
+  {
+    "id": "HAOYS",
+    "name": "Klyne Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.390081,
+    "lng": -103.297735,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HAETV",
+    "name": "Knox Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.36983,
+    "lng": -102.406187,
+    "decision_date": "1958-07-03"
+  },
+  {
+    "id": "HAOYY",
+    "name": "Knutson Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.442702,
+    "lng": -102.597969,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HAFFG",
+    "name": "Kowalski Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 57.2334501,
+    "lng": -102.7837227,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HASAF",
+    "name": "Krauchi Peninsula",
+    "generic": "Peninsula",
+    "category": "Terrain Feature",
+    "lat": 57.9334731,
+    "lng": -102.1837098,
+    "decision_date": "1959-10-01"
+  },
+  {
+    "id": "HAFFP",
+    "name": "Kroeker Islands",
+    "generic": "Islands",
+    "category": "Terrain Feature",
+    "lat": 56.930715,
+    "lng": -102.164359,
+    "decision_date": "1967-05-31"
+  },
+  {
+    "id": "HAFGS",
+    "name": "Kyaska Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.2667643,
+    "lng": -102.4670334,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAFHA",
+    "name": "Labach Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 58.1334722,
+    "lng": -102.8504162,
+    "decision_date": "1954-03-04"
+  },
+  {
+    "id": "HAXUG",
+    "name": "Lac la Hache 220",
+    "generic": "Indian Reserve",
+    "category": "Administrative Area",
+    "lat": 58.1334999,
+    "lng": -103.0792667,
+    "decision_date": "1972-06-01"
+  },
+  {
+    "id": "HAFID",
+    "name": "Laird Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.229895,
+    "lng": -102.118451,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAOYX",
+    "name": "Lalond Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.3334302,
+    "lng": -102.5837046,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HAOYW",
+    "name": "Lalonde Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.3167623,
+    "lng": -102.6170392,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HAFJZ",
+    "name": "Larsen Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 58.0668032,
+    "lng": -103.0837601,
+    "decision_date": "1954-03-04"
+  },
+  {
+    "id": "HAFKA",
+    "name": "Larson Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.9667706,
+    "lng": -103.2170756,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HAFKB",
+    "name": "Larson Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.143605,
+    "lng": -102.487542,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAFKU",
+    "name": "Laurie Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.5501116,
+    "lng": -102.0420106,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAFKY",
+    "name": "Lavigne Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.230978,
+    "lng": -102.899315,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAFLE",
+    "name": "Lawrence Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.6334339,
+    "lng": -102.8837207,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAFLI",
+    "name": "Lawrence Point",
+    "generic": "Point",
+    "category": "Terrain Feature",
+    "lat": 56.6167672,
+    "lng": -102.8503856,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAFLO",
+    "name": "Laxdal Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.921768,
+    "lng": -102.357848,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAGCX",
+    "name": "Leblanc Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.9167827,
+    "lng": -102.1836857,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAGED",
+    "name": "Lemke Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.5667761,
+    "lng": -102.333693,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAGFD",
+    "name": "Levesque Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.5501051,
+    "lng": -102.6003722,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAGHT",
+    "name": "Little Deer River",
+    "generic": "River",
+    "category": "Water Feature",
+    "lat": 56.332078,
+    "lng": -103.315524,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HARRD",
+    "name": "Little Gribbage Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 58.047824,
+    "lng": -103.282366,
+    "decision_date": "1964-10-29"
+  },
+  {
+    "id": "HAGKB",
+    "name": "Loewen Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.862204,
+    "lng": -102.277092,
+    "decision_date": "1967-05-31"
+  },
+  {
+    "id": "HAGMA",
+    "name": "Loon Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.76678,
+    "lng": -102.3503614,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAUZM",
+    "name": "Lowdermilk Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.766089,
+    "lng": -102.264512,
+    "decision_date": "1984-03-05"
+  },
+  {
+    "id": "HAHDM",
+    "name": "Lowther Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.6001294,
+    "lng": -102.4337169,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HASAE",
+    "name": "Lueaza River",
+    "generic": "River",
+    "category": "Water Feature",
+    "lat": 57.824674,
+    "lng": -102.459532,
+    "decision_date": "1925-04-07"
+  },
+  {
+    "id": "HASHZ",
+    "name": "Lyle Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.4001191,
+    "lng": -103.1504125,
+    "decision_date": "1972-11-03"
+  },
+  {
+    "id": "HAKSW",
+    "name": "MacDonald Peninsula",
+    "generic": "Peninsula",
+    "category": "Terrain Feature",
+    "lat": 56.751494,
+    "lng": -102.394967,
+    "decision_date": "1967-05-31"
+  },
+  {
+    "id": "HAKTT",
+    "name": "MacKenzie Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.840642,
+    "lng": -102.701709,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAKTE",
+    "name": "Macfarlane Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.573117,
+    "lng": -102.875742,
+    "decision_date": "1957-01-17"
+  },
+  {
+    "id": "HARAT",
+    "name": "Mackie Rapids",
+    "generic": "Rapids",
+    "category": "Water Feature",
+    "lat": 56.519867,
+    "lng": -102.44748,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HAKUS",
+    "name": "Magnusson Channel",
+    "generic": "Channel",
+    "category": "Water Feature",
+    "lat": 56.9001168,
+    "lng": -102.1336828,
+    "decision_date": "1968-09-05"
+  },
+  {
+    "id": "HAKWC",
+    "name": "Malcolm Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.006197,
+    "lng": -102.144115,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAKWJ",
+    "name": "Mallett Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.826563,
+    "lng": -102.875969,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HASBX",
+    "name": "Manson Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.239933,
+    "lng": -102.691371,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HAKXT",
+    "name": "Marchand Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.2500873,
+    "lng": -103.1670595,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAKZB",
+    "name": "Marquardt Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.3607,
+    "lng": -102.013346,
+    "decision_date": "1961-01-19"
+  },
+  {
+    "id": "HAKZR",
+    "name": "Martin Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.948861,
+    "lng": -102.520719,
+    "decision_date": "1956-07-05"
+  },
+  {
+    "id": "HALAG",
+    "name": "Mason Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 58.156337,
+    "lng": -102.013575,
+    "decision_date": "1962-11-13"
+  },
+  {
+    "id": "HALBD",
+    "name": "Matwiy Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.684734,
+    "lng": -102.242701,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HASBW",
+    "name": "McAndrew Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.2513,
+    "lng": -102.548958,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HASBY",
+    "name": "McCaffrey Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.245375,
+    "lng": -102.806633,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HALCP",
+    "name": "McCallum Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.197797,
+    "lng": -102.627554,
+    "decision_date": "1957-07-04"
+  },
+  {
+    "id": "HALDM",
+    "name": "McCrea Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.447063,
+    "lng": -102.552149,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HALDP",
+    "name": "McCrindle Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.433063,
+    "lng": -102.840161,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HALEJ",
+    "name": "McDougall Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.920935,
+    "lng": -103.157165,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HALHA",
+    "name": "McLean Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 57.8668035,
+    "lng": -102.2837146,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HALHB",
+    "name": "McLean Channel",
+    "generic": "Channel",
+    "category": "Water Feature",
+    "lat": 57.505506,
+    "lng": -102.695875,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HALHV",
+    "name": "McMillan Creek",
+    "generic": "Creek",
+    "category": "Water Feature",
+    "lat": 56.790827,
+    "lng": -102.888755,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HALIZ",
+    "name": "McTaggart Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.8834478,
+    "lng": -102.2670239,
+    "decision_date": "1968-09-05"
+  },
+  {
+    "id": "HAQEX",
+    "name": "Merritt Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.2167578,
+    "lng": -102.7337099,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HALLT",
+    "name": "Meshke Creek",
+    "generic": "Creek",
+    "category": "Water Feature",
+    "lat": 57.361699,
+    "lng": -103.000597,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HALMB",
+    "name": "Meyers Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.963218,
+    "lng": -103.183234,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HALMC",
+    "name": "Meyers Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.829071,
+    "lng": -103.079582,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HALMV",
+    "name": "Middle Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.7667973,
+    "lng": -103.1337542,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HALOQ",
+    "name": "Milne Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.416769,
+    "lng": -103.125634,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HALOT",
+    "name": "Milton Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.7001102,
+    "lng": -102.6003737,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAXYQ",
+    "name": "Mistahi Wasahk 209",
+    "generic": "Indian Reserve",
+    "category": "Administrative Area",
+    "lat": 56.3906951,
+    "lng": -103.1042058,
+    "decision_date": "1999-03-25"
+  },
+  {
+    "id": "HALRR",
+    "name": "Moldenhauer Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.954941,
+    "lng": -103.165089,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HALRX",
+    "name": "Mollison Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.078999,
+    "lng": -103.164073,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HALSV",
+    "name": "Mooney Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.6834416,
+    "lng": -102.6670434,
+    "decision_date": "1956-01-31"
+  },
+  {
+    "id": "HALTR",
+    "name": "Moose Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.083454,
+    "lng": -102.067012,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HALUL",
+    "name": "Moosooskaw Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.738461,
+    "lng": -102.17352,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HALVA",
+    "name": "Morris Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.825944,
+    "lng": -102.402185,
+    "decision_date": "1967-05-31"
+  },
+  {
+    "id": "HALVD",
+    "name": "Morrison Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.208047,
+    "lng": -102.261416,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HALVH",
+    "name": "Morrison Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.839865,
+    "lng": -102.048232,
+    "decision_date": "1966-06-15"
+  },
+  {
+    "id": "HALVQ",
+    "name": "Mortenson Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.604115,
+    "lng": -102.236933,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HALVT",
+    "name": "Morton Islands",
+    "generic": "Islands",
+    "category": "Terrain Feature",
+    "lat": 57.412019,
+    "lng": -102.686944,
+    "decision_date": "1960-12-01"
+  },
+  {
+    "id": "HALVW",
+    "name": "Morwick Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.512492,
+    "lng": -103.317167,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HALVY",
+    "name": "Mosquito Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.4001243,
+    "lng": -102.4503768,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HASPN",
+    "name": "Mullen Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 58.1668098,
+    "lng": -102.3670616,
+    "decision_date": "1967-08-15"
+  },
+  {
+    "id": "HALXY",
+    "name": "Mullin Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.623632,
+    "lng": -103.297798,
+    "decision_date": "1952-05-01"
+  },
+  {
+    "id": "HALYI",
+    "name": "Munro Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.777982,
+    "lng": -102.4064,
+    "decision_date": "1967-05-31"
+  },
+  {
+    "id": "HALYY",
+    "name": "Murray Islands",
+    "generic": "Islands",
+    "category": "Terrain Feature",
+    "lat": 56.98456,
+    "lng": -102.5216,
+    "decision_date": "1961-12-19"
+  },
+  {
+    "id": "HASAC",
+    "name": "Muskeg Portage",
+    "generic": "Portage",
+    "category": "Constructed Feature",
+    "lat": 57.778873,
+    "lng": -103.133914,
+    "decision_date": "1969-04-16"
+  },
+  {
+    "id": "HAMFB",
+    "name": "Nicholson Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.762495,
+    "lng": -103.031276,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HAMGH",
+    "name": "Noble Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.4000897,
+    "lng": -103.1503941,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAMGJ",
+    "name": "Nokomis Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.013547,
+    "lng": -102.907886,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAMGP",
+    "name": "Noosas Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.668751,
+    "lng": -102.395916,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAMIF",
+    "name": "North Porcupine Point",
+    "generic": "Point",
+    "category": "Terrain Feature",
+    "lat": 57.488559,
+    "lng": -102.112848,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAMJC",
+    "name": "Numabin Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.545841,
+    "lng": -103.123308,
+    "decision_date": "1984-10-10"
+  },
+  {
+    "id": "HAMJD",
+    "name": "Numakoos Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.6501103,
+    "lng": -102.4837006,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HASAM",
+    "name": "O'Connell Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.480935,
+    "lng": -102.012461,
+    "decision_date": "1966-06-15"
+  },
+  {
+    "id": "HAQUC",
+    "name": "Ochankugahe Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.609531,
+    "lng": -102.571271,
+    "decision_date": "1956-01-19"
+  },
+  {
+    "id": "HANDF",
+    "name": "Ogloff Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.330687,
+    "lng": -102.824345,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HANER",
+    "name": "Olson Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.95445,
+    "lng": -102.018242,
+    "decision_date": "1966-06-15"
+  },
+  {
+    "id": "HANGG",
+    "name": "Osipoff Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.512915,
+    "lng": -102.087488,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAGNU",
+    "name": "Park Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.07257,
+    "lng": -102.308942,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAGOA",
+    "name": "Parkunow Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.875108,
+    "lng": -102.987044,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAGOG",
+    "name": "Parrish Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.786982,
+    "lng": -103.321487,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAGOS",
+    "name": "Paskwachi Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 57.226886,
+    "lng": -102.026626,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAGPF",
+    "name": "Paterson Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.961154,
+    "lng": -102.889508,
+    "decision_date": "1968-03-06"
+  },
+  {
+    "id": "HAGPU",
+    "name": "Patterson Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.6667963,
+    "lng": -102.6337284,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAGPY",
+    "name": "Patton Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.354316,
+    "lng": -102.109836,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAGQW",
+    "name": "Pearce Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.753014,
+    "lng": -102.735996,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAGRB",
+    "name": "Pearson Islands",
+    "generic": "Islands",
+    "category": "Terrain Feature",
+    "lat": 56.449047,
+    "lng": -103.077555,
+    "decision_date": "1972-03-13"
+  },
+  {
+    "id": "HAGSC",
+    "name": "Peirson Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.362681,
+    "lng": -102.897371,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAGSM",
+    "name": "Pellant Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.927737,
+    "lng": -102.899059,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAGUC",
+    "name": "Perry Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.901897,
+    "lng": -102.706011,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAHLH",
+    "name": "Phillips Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.7334669,
+    "lng": -102.2837127,
+    "decision_date": "1960-08-04"
+  },
+  {
+    "id": "HAHLV",
+    "name": "Pickett Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.292356,
+    "lng": -102.769355,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAOYZ",
+    "name": "Platt Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.352483,
+    "lng": -102.677571,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HAHPC",
+    "name": "Pollon Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.368826,
+    "lng": -103.139379,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAHPZ",
+    "name": "Porcupine Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.510739,
+    "lng": -102.062693,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAHQH",
+    "name": "Porter Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 57.694975,
+    "lng": -102.712893,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HANIK",
+    "name": "Price Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.457866,
+    "lng": -102.968232,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAHRX",
+    "name": "Priest Point",
+    "generic": "Point",
+    "category": "Terrain Feature",
+    "lat": 56.769667,
+    "lng": -102.52482,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAQUB",
+    "name": "Priestly Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.611318,
+    "lng": -102.722319,
+    "decision_date": "1956-07-05"
+  },
+  {
+    "id": "HAIJY",
+    "name": "Ranschaert Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.807093,
+    "lng": -102.245295,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAILW",
+    "name": "Redman Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.908126,
+    "lng": -103.066334,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAQUA",
+    "name": "Reed Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.689067,
+    "lng": -102.795647,
+    "decision_date": "1968-03-08"
+  },
+  {
+    "id": "HAIMV",
+    "name": "Reid Channel",
+    "generic": "Channel",
+    "category": "Water Feature",
+    "lat": 57.325462,
+    "lng": -102.669341,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAIMX",
+    "name": "Reid Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.776914,
+    "lng": -102.910143,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HAINC",
+    "name": "Reilly Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.290999,
+    "lng": -103.013919,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAINE",
+    "name": "Reindeer Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.4334579,
+    "lng": -102.5003806,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAINF",
+    "name": "Reindeer Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.623585,
+    "lng": -102.004087,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAXCI",
+    "name": "Reindeer Lake (Norvil Olson) Recreation Site",
+    "generic": "Recreation Site",
+    "category": "Administrative Area",
+    "lat": 56.3360233,
+    "lng": -103.2825421,
+    "decision_date": "1998-06-01"
+  },
+  {
+    "id": "HASPJ",
+    "name": "Reitenbach Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 58.178367,
+    "lng": -102.583989,
+    "decision_date": "1960-01-21"
+  },
+  {
+    "id": "HAIOE",
+    "name": "Reynolds Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.6834443,
+    "lng": -102.5170362,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAPJH",
+    "name": "Reynolds Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.926043,
+    "lng": -102.744906,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HANYC",
+    "name": "Reynolds Peninsula",
+    "generic": "Peninsula",
+    "category": "Terrain Feature",
+    "lat": 56.6501103,
+    "lng": -102.4837006,
+    "decision_date": "1959-07-02"
+  },
+  {
+    "id": "HASFY",
+    "name": "Robertson Rapids",
+    "generic": "Rapids",
+    "category": "Water Feature",
+    "lat": 57.4501224,
+    "lng": -102.933736,
+    "decision_date": "1959-08-06"
+  },
+  {
+    "id": "HAJEP",
+    "name": "Robinson Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 57.2501185,
+    "lng": -102.6837177,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAJFQ",
+    "name": "Rocky Islands",
+    "generic": "Islands",
+    "category": "Terrain Feature",
+    "lat": 57.651524,
+    "lng": -102.544022,
+    "decision_date": "1960-12-01"
+  },
+  {
+    "id": "HAJHL",
+    "name": "Ross Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.0501162,
+    "lng": -102.2503582,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAJIU",
+    "name": "Rowland Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.334488,
+    "lng": -102.647516,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAJJJ",
+    "name": "Rudolph Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.574709,
+    "lng": -102.415781,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAJKM",
+    "name": "Rutherford Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.360707,
+    "lng": -103.297337,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HANHV",
+    "name": "Ryan Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.833887,
+    "lng": -103.055872,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HAHHU",
+    "name": "Sanderson Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.633463,
+    "lng": -102.517055,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAHHZ",
+    "name": "Sandford Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.493871,
+    "lng": -103.030032,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAHIL",
+    "name": "Sandy Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.385016,
+    "lng": -102.140711,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAHXX",
+    "name": "Scheidel Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.818311,
+    "lng": -103.259515,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAHYV",
+    "name": "Schutte Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.393629,
+    "lng": -102.520316,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAHYW",
+    "name": "Schwab Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.584275,
+    "lng": -102.173076,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAHZH",
+    "name": "Scott Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.8001131,
+    "lng": -102.56704,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HAHZJ",
+    "name": "Scott Creek",
+    "generic": "Creek",
+    "category": "Water Feature",
+    "lat": 56.812813,
+    "lng": -102.585102,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HAHZR",
+    "name": "Scott Rapids",
+    "generic": "Rapids",
+    "category": "Water Feature",
+    "lat": 57.241166,
+    "lng": -103.206122,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HASHG",
+    "name": "Scott River",
+    "generic": "River",
+    "category": "Water Feature",
+    "lat": 56.25588,
+    "lng": -103.289451,
+    "decision_date": "1971-04-29"
+  },
+  {
+    "id": "HAIBK",
+    "name": "Serwatkewich Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.836395,
+    "lng": -102.262179,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAICY",
+    "name": "Shaw Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.744296,
+    "lng": -102.485656,
+    "decision_date": "1967-05-31"
+  },
+  {
+    "id": "HAIDB",
+    "name": "Shaw Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.3667667,
+    "lng": -102.5170349,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAIDM",
+    "name": "Shepherd Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.088145,
+    "lng": -102.837252,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAIUI",
+    "name": "Simonson Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.404422,
+    "lng": -102.408706,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAIUL",
+    "name": "Simpkins Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.8167685,
+    "lng": -103.23374,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HAIWG",
+    "name": "Smith Channel",
+    "generic": "Channel",
+    "category": "Water Feature",
+    "lat": 57.842203,
+    "lng": -102.202393,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAIWV",
+    "name": "Smith Peninsula",
+    "generic": "Peninsula",
+    "category": "Terrain Feature",
+    "lat": 56.7834461,
+    "lng": -102.5503724,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HAIWX",
+    "name": "Smith Point",
+    "generic": "Point",
+    "category": "Terrain Feature",
+    "lat": 57.765973,
+    "lng": -102.303337,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAIXB",
+    "name": "Smith River",
+    "generic": "River",
+    "category": "Water Feature",
+    "lat": 56.914032,
+    "lng": -102.600112,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HAIYM",
+    "name": "Sohorowich Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.300713,
+    "lng": -102.018051,
+    "decision_date": "1961-01-19"
+  },
+  {
+    "id": "HAJAJ",
+    "name": "South Porcupine Point",
+    "generic": "Point",
+    "category": "Terrain Feature",
+    "lat": 57.367234,
+    "lng": -102.148242,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAYFD",
+    "name": "Southend 200",
+    "generic": "Indian Reserve",
+    "category": "Administrative Area",
+    "lat": 56.3289247,
+    "lng": -103.2028674,
+    "decision_date": "1981-01-08"
+  },
+  {
+    "id": "HZABW",
+    "name": "Southend 200A",
+    "generic": "Indian Reserve",
+    "category": "Administrative Area",
+    "lat": 56.319585,
+    "lng": -103.263785,
+    "decision_date": "2011-11-17"
+  },
+  {
+    "id": "HAAPA",
+    "name": "Southend Reindeer",
+    "generic": "Northern Hamlet",
+    "category": "Populated Place",
+    "lat": 56.329662,
+    "lng": -103.24262,
+    "decision_date": "1985-05-29"
+  },
+  {
+    "id": "HAIZY",
+    "name": "Southesk Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.643706,
+    "lng": -103.253253,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAJTK",
+    "name": "Stackhouse Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.490952,
+    "lng": -103.274277,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAJTP",
+    "name": "Stanger Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.152995,
+    "lng": -102.149434,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAJTY",
+    "name": "Staples Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.645571,
+    "lng": -102.875059,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAJUI",
+    "name": "Stawnychka Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.88942,
+    "lng": -102.075644,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HASMT",
+    "name": "Steep Rock Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.3001262,
+    "lng": -102.083684,
+    "decision_date": "1968-08-13"
+  },
+  {
+    "id": "HAJUZ",
+    "name": "Steep Rock Point",
+    "generic": "Point",
+    "category": "Terrain Feature",
+    "lat": 57.281677,
+    "lng": -102.121167,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAJVJ",
+    "name": "Stephens Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.960762,
+    "lng": -102.920505,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HAJVP",
+    "name": "Stevenson Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.93533,
+    "lng": -102.705562,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HAJVR",
+    "name": "Stevenson Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.952564,
+    "lng": -102.69081,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HAJWN",
+    "name": "Stickler Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.3334555,
+    "lng": -102.4837112,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAJWO",
+    "name": "Stilborn Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.556932,
+    "lng": -102.078513,
+    "decision_date": "1960-07-07"
+  },
+  {
+    "id": "HAVLZ",
+    "name": "Suffern Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.489093,
+    "lng": -102.880902,
+    "decision_date": "1958-07-03"
+  },
+  {
+    "id": "HAMWK",
+    "name": "Sutherby Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.707462,
+    "lng": -102.070789,
+    "decision_date": "1960-07-07"
+  },
+  {
+    "id": "HAMWO",
+    "name": "Sutton Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.942126,
+    "lng": -102.402948,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAMWU",
+    "name": "Swan Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 57.4501225,
+    "lng": -102.8337318,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAMWY",
+    "name": "Swan Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.571638,
+    "lng": -103.022149,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAMXA",
+    "name": "Swan River",
+    "generic": "River",
+    "category": "Water Feature",
+    "lat": 57.497453,
+    "lng": -102.941879,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAMZK",
+    "name": "Tate Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.1167834,
+    "lng": -102.5337087,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HASHM",
+    "name": "Tatham Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.751488,
+    "lng": -102.38279,
+    "decision_date": "1972-03-30"
+  },
+  {
+    "id": "HAMZN",
+    "name": "Tatlow Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 58.100242,
+    "lng": -102.933129,
+    "decision_date": "1958-04-03"
+  },
+  {
+    "id": "HANAI",
+    "name": "Tearse Islands",
+    "generic": "Islands",
+    "category": "Terrain Feature",
+    "lat": 57.670543,
+    "lng": -102.225059,
+    "decision_date": "1960-12-01"
+  },
+  {
+    "id": "HASGC",
+    "name": "Thackeray Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.2834593,
+    "lng": -102.0170135,
+    "decision_date": "1966-05-16"
+  },
+  {
+    "id": "HANPW",
+    "name": "Thomas Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.917589,
+    "lng": -103.030292,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HANQD",
+    "name": "Thompson Creek",
+    "generic": "Creek",
+    "category": "Water Feature",
+    "lat": 56.878827,
+    "lng": -102.733659,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HANQF",
+    "name": "Thompson Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.1667831,
+    "lng": -102.6670488,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HANQH",
+    "name": "Thompson Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.879407,
+    "lng": -102.783247,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HANRN",
+    "name": "Thyme Hill River",
+    "generic": "River",
+    "category": "Water Feature",
+    "lat": 57.705692,
+    "lng": -102.716745,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HANRU",
+    "name": "Tighe Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.717464,
+    "lng": -103.18488,
+    "decision_date": "1958-07-03"
+  },
+  {
+    "id": "HANSB",
+    "name": "Timew Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.433424,
+    "lng": -103.0837254,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HANTC",
+    "name": "Tomison Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.201801,
+    "lng": -102.356349,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HANVT",
+    "name": "Tucker Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.87425,
+    "lng": -102.058708,
+    "decision_date": "1958-07-03"
+  },
+  {
+    "id": "HANWJ",
+    "name": "Turner Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 57.231957,
+    "lng": -102.835933,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HANWN",
+    "name": "Turtle Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.586298,
+    "lng": -102.395025,
+    "decision_date": "1958-07-03"
+  },
+  {
+    "id": "HAVRH",
+    "name": "Twin Islands",
+    "generic": "Islands",
+    "category": "Terrain Feature",
+    "lat": 57.077783,
+    "lng": -102.366436,
+    "decision_date": "1960-12-01"
+  },
+  {
+    "id": "HAIRV",
+    "name": "Upisk Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.710878,
+    "lng": -102.348731,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAIRW",
+    "name": "Upistutik Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.751395,
+    "lng": -102.440925,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAJKW",
+    "name": "Vermilion Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 57.261612,
+    "lng": -102.974027,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAJKY",
+    "name": "Vermilion Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.3334527,
+    "lng": -102.8503939,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAJKZ",
+    "name": "Vermilion Point",
+    "generic": "Point",
+    "category": "Terrain Feature",
+    "lat": 57.3667882,
+    "lng": -102.6670543,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAJMT",
+    "name": "Wagner Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 58.053283,
+    "lng": -102.69163,
+    "decision_date": "1958-04-03"
+  },
+  {
+    "id": "HAJNL",
+    "name": "Wall Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.4501088,
+    "lng": -102.1836847,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAJNR",
+    "name": "Wallace Creek",
+    "generic": "Creek",
+    "category": "Water Feature",
+    "lat": 56.814132,
+    "lng": -102.107627,
+    "decision_date": "1967-05-31"
+  },
+  {
+    "id": "HAJNS",
+    "name": "Wallace Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.769202,
+    "lng": -102.235897,
+    "decision_date": "1960-12-01"
+  },
+  {
+    "id": "HAJOB",
+    "name": "Walsh Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.150121,
+    "lng": -102.1003502,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAJOE",
+    "name": "Walter Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.883449,
+    "lng": -102.167018,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAJPB",
+    "name": "Wapus Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.611241,
+    "lng": -102.457998,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAJPC",
+    "name": "Wapus Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.650109,
+    "lng": -102.55037,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAJPD",
+    "name": "Wapus Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.447299,
+    "lng": -102.203533,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAJPE",
+    "name": "Wapus River",
+    "generic": "River",
+    "category": "Water Feature",
+    "lat": 56.527454,
+    "lng": -102.455865,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAJPF",
+    "name": "Wapusis Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.550313,
+    "lng": -102.461333,
+    "decision_date": "1958-06-05"
+  },
+  {
+    "id": "HAJPV",
+    "name": "Warren Islands",
+    "generic": "Islands",
+    "category": "Terrain Feature",
+    "lat": 57.5001267,
+    "lng": -102.4503803,
+    "decision_date": "1960-12-01"
+  },
+  {
+    "id": "HAUIN",
+    "name": "Watt Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.5167584,
+    "lng": -103.1670636,
+    "decision_date": "1956-11-02"
+  },
+  {
+    "id": "HAUJG",
+    "name": "Weatherup Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.482982,
+    "lng": -103.049708,
+    "decision_date": "1957-06-06"
+  },
+  {
+    "id": "HAUJH",
+    "name": "Weaver Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.3001216,
+    "lng": -102.4670432,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HAUKE",
+    "name": "Welcome Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 58.110603,
+    "lng": -103.165201,
+    "decision_date": "1959-07-02"
+  },
+  {
+    "id": "HAUKV",
+    "name": "Welsh Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.986748,
+    "lng": -103.091193,
+    "decision_date": "1967-04-21"
+  },
+  {
+    "id": "HAMRQ",
+    "name": "Wepusko Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.944381,
+    "lng": -102.695633,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAULG",
+    "name": "Wepusko River",
+    "generic": "River",
+    "category": "Water Feature",
+    "lat": 57.056515,
+    "lng": -102.701981,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAUMH",
+    "name": "Westlake Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.393266,
+    "lng": -103.224237,
+    "decision_date": "1956-09-06"
+  },
+  {
+    "id": "HAMTG",
+    "name": "Wetmore Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.496861,
+    "lng": -102.435314,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAMTM",
+    "name": "Wheatland Islands",
+    "generic": "Islands",
+    "category": "Terrain Feature",
+    "lat": 57.207947,
+    "lng": -102.579413,
+    "decision_date": "1960-12-01"
+  },
+  {
+    "id": "HAUUQ",
+    "name": "Whitesand Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.97765,
+    "lng": -102.06774,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HAUWA",
+    "name": "Wiley Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 57.598233,
+    "lng": -102.681095,
+    "decision_date": "1958-07-03"
+  },
+  {
+    "id": "HAUWG",
+    "name": "Wilkins Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.65462,
+    "lng": -102.13936,
+    "decision_date": "1960-04-07"
+  },
+  {
+    "id": "HANIO",
+    "name": "Wilkinson Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.409427,
+    "lng": -102.036396,
+    "decision_date": "1961-01-19"
+  },
+  {
+    "id": "HANIS",
+    "name": "Williams Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.710131,
+    "lng": -103.250766,
+    "decision_date": "1932-07-06"
+  },
+  {
+    "id": "HASHO",
+    "name": "Wilson Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 57.381729,
+    "lng": -102.689331,
+    "decision_date": "1976-10-12"
+  },
+  {
+    "id": "HATGO",
+    "name": "Wilson Rapids",
+    "generic": "Rapids",
+    "category": "Water Feature",
+    "lat": 57.228956,
+    "lng": -103.304589,
+    "decision_date": "1959-10-01"
+  },
+  {
+    "id": "HANMR",
+    "name": "Wollaston Lake",
+    "generic": "Northern Settlement",
+    "category": "Populated Place",
+    "lat": 58.104953,
+    "lng": -103.168758,
+    "decision_date": "1996-01-01"
+  },
+  {
+    "id": "HANMZ",
+    "name": "Wood Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 56.918342,
+    "lng": -102.690166,
+    "decision_date": "1967-04-06"
+  },
+  {
+    "id": "HANNK",
+    "name": "Woodley Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.506086,
+    "lng": -102.179481,
+    "decision_date": "1960-07-07"
+  },
+  {
+    "id": "HAOYT",
+    "name": "Woods Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.282779,
+    "lng": -103.312258,
+    "decision_date": "1967-07-10"
+  },
+  {
+    "id": "HANNS",
+    "name": "Woodward River",
+    "generic": "River",
+    "category": "Water Feature",
+    "lat": 57.867204,
+    "lng": -102.712115,
+    "decision_date": "1952-10-02"
+  },
+  {
+    "id": "HASAN",
+    "name": "Wright Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.3251078,
+    "lng": -102.0170131,
+    "decision_date": "1966-06-15"
+  },
+  {
+    "id": "HAVUM",
+    "name": "Yeo Lakes",
+    "generic": "Lakes",
+    "category": "Water Feature",
+    "lat": 57.460757,
+    "lng": -103.280259,
+    "decision_date": "1960-12-01"
+  },
+  {
+    "id": "HAVTI",
+    "name": "Zaleschuk Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 56.561875,
+    "lng": -102.237118,
+    "decision_date": "1960-07-07"
+  },
+  {
+    "id": "HAVTG",
+    "name": "Zangeza Bay",
+    "generic": "Bay",
+    "category": "Water Feature",
+    "lat": 58.120414,
+    "lng": -102.000909,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAVTW",
+    "name": "Zengle Lake",
+    "generic": "Lake",
+    "category": "Water Feature",
+    "lat": 57.907863,
+    "lng": -102.549849,
+    "decision_date": "1936-07-15"
+  },
+  {
+    "id": "HAVUC",
+    "name": "Zillinsky Island",
+    "generic": "Island",
+    "category": "Terrain Feature",
+    "lat": 56.758102,
+    "lng": -102.45828,
+    "decision_date": "1960-04-07"
+  }
+]

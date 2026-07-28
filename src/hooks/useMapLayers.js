@@ -42,6 +42,7 @@ const DEFAULT_OVERLAYS = {
   hydrography: false,
   placeNames: false,
   skGeoNames: false,
+  nrcanNames: false,
 }
 
 function readPrefs() {

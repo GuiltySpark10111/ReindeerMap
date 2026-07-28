@@ -87,6 +87,14 @@ export default function LayerControl({
               onChange={() => toggleOverlay('skGeoNames')}
             />
           </label>
+          <label className="flex items-center justify-between py-2 min-h-[44px]">
+            <span>Named Features (NRCan)</span>
+            <input
+              type="checkbox"
+              checked={overlays.nrcanNames}
+              onChange={() => toggleOverlay('nrcanNames')}
+            />
+          </label>
         </div>
 
         {overlays.personalSpots && (
