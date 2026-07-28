@@ -9,5 +9,36 @@
   { "name": "Cochrane River Mouth", "lat": 57.30, "lng": -103.30, "type": "creek_mouth", "notes": "Primary named inflow, west shore" },
   { "name": "Reindeer River Outflow", "lat": 56.34, "lng": -103.24, "type": "creek_mouth", "notes": "Outflow south to Churchill River via Whitesand Dam" },
   { "name": "Bedford House (Historic)", "lat": 57.50, "lng": -103.30, "type": "general", "notes": "Historic Hudson Bay Company trading post, est. 1796" },
-  { "name": "SK / MB Provincial Border", "lat": 57.50, "lng": -102.00, "type": "general", "notes": "Saskatchewan / Manitoba border crosses lake approx here" }
+  { "name": "SK / MB Provincial Border", "lat": 57.50, "lng": -102.00, "type": "general", "notes": "Saskatchewan / Manitoba border crosses lake approx here" },
+
+  { "name": "Zangeza Bay (SK)", "lat": 58.050, "lng": -102.067, "type": "general", "notes": "Named bay, north end, Saskatchewan side" },
+  { "name": "Zangeza Bay (MB)", "lat": 58.086, "lng": -102.000, "type": "general", "notes": "Named bay, north end, Manitoba side" },
+  { "name": "Wepusko Bay", "lat": 57.35, "lng": -101.90, "type": "general", "notes": "Named bay, east shore — NTS map 064E02" },
+  { "name": "Lawrence Bay", "lat": 56.70, "lng": -102.60, "type": "general", "notes": "Named bay — Lawrence Bay Lodge located here. 40 miles by cruiser from Southend." },
+
+  { "name": "Tate Island", "lat": 57.117, "lng": -102.533, "type": "general", "notes": "Tate Island Lodge. Float plane access. CGNDB ID: HAMZK" },
+  { "name": "Findlay Island", "lat": 57.10, "lng": -102.60, "type": "general", "notes": "Named after Robert Henry Findlay. Geomemorial Program." },
+  { "name": "Boucher Island", "lat": 57.05, "lng": -102.55, "type": "general", "notes": "Named after Arthur Alfred Boucher. Geomemorial Program." },
+  { "name": "McCrea Island", "lat": 56.95, "lng": -102.70, "type": "general", "notes": "Named after Sidney Benjamin McCrea. Geomemorial Program." },
+  { "name": "Bedford Island", "lat": 57.55, "lng": -103.20, "type": "general", "notes": "Historic area — Bedford House trading post 1796. NTS map 064E07" },
+  { "name": "Beaver Island", "lat": 57.50, "lng": -103.10, "type": "general", "notes": "NTS map 064E08" },
+  { "name": "Ballentin Island", "lat": 57.55, "lng": -102.90, "type": "general", "notes": "NTS map 064E09" },
+  { "name": "Patterson Island", "lat": 57.60, "lng": -102.75, "type": "general", "notes": "NTS map 064E10" },
+  { "name": "Cheesman Island", "lat": 57.25, "lng": -102.10, "type": "general", "notes": "NTS map 064E01 — east side of lake" },
+  { "name": "Milton Island", "lat": 56.75, "lng": -102.90, "type": "general", "notes": "NTS map 064D10" },
+  { "name": "Amiskit Island", "lat": 56.85, "lng": -103.10, "type": "general", "notes": "NTS map 064D16" },
+  { "name": "Reindeer Island (Ecological Reserve)", "lat": 57.20, "lng": -102.80, "type": "general", "notes": "Ecological reserve. Check First Nations land access requirements before fishing nearby." },
+
+  { "name": "Feaviour Peninsula", "lat": 57.65, "lng": -102.85, "type": "general", "notes": "Named peninsula, north-central lake. NTS map 064E16" },
+
+  { "name": "Wathaman River (mouth)", "lat": 57.80, "lng": -102.50, "type": "creek_mouth", "notes": "Second major named inflow. Drains from north." },
+  { "name": "Whitesand Dam", "lat": 56.236, "lng": -103.149, "type": "hazard", "notes": "Regulates Reindeer River outflow. Coordinates: 56°14'8\"N 103°08'57\"W" },
+
+  { "name": "Finlayson Lake", "lat": 56.55, "lng": -103.20, "type": "general", "notes": "Named lake in area. NTS map 064D07" },
+  { "name": "Bleasdell Lake", "lat": 56.65, "lng": -103.15, "type": "general", "notes": "Named lake in area. NTS map 064D09" },
+  { "name": "Ghana Lake", "lat": 56.70, "lng": -103.05, "type": "general", "notes": "Named lake in area. NTS map 064D11" },
+  { "name": "Oliver Lake", "lat": 56.90, "lng": -103.20, "type": "general", "notes": "Named lake in area. NTS map 064D14" },
+  { "name": "Perry Lake", "lat": 56.95, "lng": -103.10, "type": "general", "notes": "Named lake in area. Perry Lake Ecological Reserve. NTS map 064D15" },
+
+  { "name": "Lindbergh Lodge Aerodrome", "lat": 57.25, "lng": -102.35, "type": "general", "notes": "Float plane / bush plane aerodrome on island in Reindeer Lake. Reference navigation point." }
 ]
