@@ -95,6 +95,14 @@ export default function LayerControl({
               onChange={() => toggleOverlay('nrcanNames')}
             />
           </label>
+          <label className="flex items-center justify-between py-2 min-h-[44px]">
+            <span>Depth Soundings (SK Gov)</span>
+            <input
+              type="checkbox"
+              checked={overlays.skBathymetry}
+              onChange={() => toggleOverlay('skBathymetry')}
+            />
+          </label>
         </div>
 
         {overlays.personalSpots && (

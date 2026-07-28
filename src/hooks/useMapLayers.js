@@ -43,6 +43,7 @@ const DEFAULT_OVERLAYS = {
   placeNames: false,
   skGeoNames: false,
   nrcanNames: false,
+  skBathymetry: false,
 }
 
 function readPrefs() {

@@ -6,6 +6,7 @@ import { TILE_LAYERS, OVERLAY_TILE_LAYERS } from '../hooks/useMapLayers'
 import HydrographyLayer from './HydrographyLayer'
 import SaskGeoNamesLayer from './SaskGeoNamesLayer'
 import NrcanNamesLayer from './NrcanNamesLayer'
+import SkBathymetryLayer from './SkBathymetryLayer'
 
 const LONG_PRESS_MS = 500
 const LONG_PRESS_MOVE_TOLERANCE_PX = 12
@@ -152,6 +153,7 @@ export default function MapView({
         <HydrographyLayer enabled={overlays.hydrography} />
         <SaskGeoNamesLayer enabled={overlays.skGeoNames} />
         <NrcanNamesLayer enabled={overlays.nrcanNames} />
+        <SkBathymetryLayer enabled={overlays.skBathymetry} />
         <LongPressHandler onLongPress={onLongPress} />
         <GpsButton />
 
