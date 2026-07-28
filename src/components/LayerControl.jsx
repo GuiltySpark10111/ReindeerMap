@@ -79,6 +79,14 @@ export default function LayerControl({
               onChange={() => toggleOverlay('hydrography')}
             />
           </label>
+          <label className="flex items-center justify-between py-2 min-h-[44px]">
+            <span>Named Features (SK Gov)</span>
+            <input
+              type="checkbox"
+              checked={overlays.skGeoNames}
+              onChange={() => toggleOverlay('skGeoNames')}
+            />
+          </label>
         </div>
 
         {overlays.personalSpots && (

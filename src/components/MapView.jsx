@@ -4,6 +4,7 @@ import L from 'leaflet'
 import { REINDEER_LAKE_CENTER, DEFAULT_ZOOM, MARKER_TYPES } from '../lib/geoUtils'
 import { TILE_LAYERS, OVERLAY_TILE_LAYERS } from '../hooks/useMapLayers'
 import HydrographyLayer from './HydrographyLayer'
+import SaskGeoNamesLayer from './SaskGeoNamesLayer'
 
 const LONG_PRESS_MS = 500
 const LONG_PRESS_MOVE_TOLERANCE_PX = 12
@@ -148,6 +149,7 @@ export default function MapView({
           />
         )}
         <HydrographyLayer enabled={overlays.hydrography} />
+        <SaskGeoNamesLayer enabled={overlays.skGeoNames} />
         <LongPressHandler onLongPress={onLongPress} />
         <GpsButton />
 

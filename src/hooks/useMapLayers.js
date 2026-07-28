@@ -41,6 +41,7 @@ const DEFAULT_OVERLAYS = {
   openSeaMap: false,
   hydrography: false,
   placeNames: false,
+  skGeoNames: false,
 }
 
 function readPrefs() {
