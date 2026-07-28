@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
-import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet'
+import { MapContainer, TileLayer, WMSTileLayer, Marker, Popup, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import { REINDEER_LAKE_CENTER, DEFAULT_ZOOM, MARKER_TYPES } from '../lib/geoUtils'
 import { TILE_LAYERS, OVERLAY_TILE_LAYERS } from '../hooks/useMapLayers'
@@ -142,7 +142,18 @@ export default function MapView({
           if (mapRef) mapRef.current = instance
         }}
       >
-        <TileLayer url={tile.url} attribution={tile.attribution} />
+        {tile.wms ? (
+          <WMSTileLayer
+            url={tile.url}
+            layers={tile.layers}
+            format={tile.format}
+            version={tile.version}
+            transparent={false}
+            attribution={tile.attribution}
+          />
+        ) : (
+          <TileLayer url={tile.url} attribution={tile.attribution} />
+        )}
         {overlays.openSeaMap && (
           <TileLayer
             url={OVERLAY_TILE_LAYERS.openSeaMap.url}

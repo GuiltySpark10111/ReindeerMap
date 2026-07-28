@@ -21,6 +21,15 @@ export const TILE_LAYERS = {
     url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
     attribution: '&copy; OpenStreetMap contributors',
   },
+  canvec: {
+    label: 'Atlas of Canada (CanVec)',
+    wms: true,
+    url: 'https://maps.geogratis.gc.ca/wms/canvec_en',
+    layers: 'canvec',
+    format: 'image/png',
+    version: '1.3.0',
+    attribution: '&copy; Natural Resources Canada',
+  },
 }
 
 // Toggleable tile overlays that sit on top of the base layer (not mutually exclusive with it).
