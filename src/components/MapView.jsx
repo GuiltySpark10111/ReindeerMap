@@ -3,6 +3,7 @@ import { MapContainer, TileLayer, Marker, Popup, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import { REINDEER_LAKE_CENTER, DEFAULT_ZOOM, MARKER_TYPES } from '../lib/geoUtils'
 import { TILE_LAYERS, OVERLAY_TILE_LAYERS } from '../hooks/useMapLayers'
+import HydrographyLayer from './HydrographyLayer'
 
 const LONG_PRESS_MS = 500
 const LONG_PRESS_MOVE_TOLERANCE_PX = 12
@@ -131,6 +132,7 @@ export default function MapView({
         center={[REINDEER_LAKE_CENTER.lat, REINDEER_LAKE_CENTER.lng]}
         zoom={DEFAULT_ZOOM}
         zoomControl={false}
+        preferCanvas
         className="w-full h-full"
         ref={(instance) => {
           internalRef.current = instance
@@ -145,6 +147,7 @@ export default function MapView({
             opacity={OVERLAY_TILE_LAYERS.openSeaMap.opacity}
           />
         )}
+        <HydrographyLayer enabled={overlays.hydrography} />
         <LongPressHandler onLongPress={onLongPress} />
         <GpsButton />
 

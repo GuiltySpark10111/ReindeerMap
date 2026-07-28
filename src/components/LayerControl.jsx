@@ -71,6 +71,14 @@ export default function LayerControl({
               onChange={() => toggleOverlay('openSeaMap')}
             />
           </label>
+          <label className="flex items-center justify-between py-2 min-h-[44px]">
+            <span>Waterways (OSM)</span>
+            <input
+              type="checkbox"
+              checked={overlays.hydrography}
+              onChange={() => toggleOverlay('hydrography')}
+            />
+          </label>
         </div>
 
         {overlays.personalSpots && (
