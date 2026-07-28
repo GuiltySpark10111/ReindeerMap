@@ -40,5 +40,8 @@
   { "name": "Oliver Lake", "lat": 56.90, "lng": -103.20, "type": "general", "notes": "Named lake in area. NTS map 064D14" },
   { "name": "Perry Lake", "lat": 56.95, "lng": -103.10, "type": "general", "notes": "Named lake in area. Perry Lake Ecological Reserve. NTS map 064D15" },
 
-  { "name": "Lindbergh Lodge Aerodrome", "lat": 57.25, "lng": -102.35, "type": "general", "notes": "Float plane / bush plane aerodrome on island in Reindeer Lake. Reference navigation point." }
+  { "name": "Lindbergh Lodge Aerodrome", "lat": 57.25, "lng": -102.35, "type": "general", "notes": "Float plane / bush plane aerodrome on island in Reindeer Lake. Reference navigation point." },
+
+  { "name": "Norvil Olson Campground", "lat": 56.345, "lng": -103.205, "type": "camp", "notes": "Provincial recreation site at south end of lake. 2km west of Nordic Lodge." },
+  { "name": "Big Island (Southend)", "lat": 56.330, "lng": -103.243, "type": "general", "notes": "Southend community is situated on Big Island at the southern tip of Reindeer Lake." }
 ]
